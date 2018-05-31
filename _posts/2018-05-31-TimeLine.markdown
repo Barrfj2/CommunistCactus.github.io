@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Hello World and choosing a project"
+date:   2018-05-31 17:08:22 +1200
+categories: jekyll update
+---
+<p>
+Week timeline of updates
+</p>
+<p>
+Week:
+</p>
+<ul>
+<li> Week 1: Subbmitting CV and Coverletter<li\>
+<li> Week 2:Getting our porject assignedCreating our trello and making user stories<li\>
+<li> Week 3:Nick presented a skeleton of the code and we went over it to make sure it would work etc <li\>
+<li> Week 4: Looking online  for ideas<li\>
+<li> Week 5: Holiday Period and not a lot was done on my part.<li\>
+<li> Week 6: Holiday Period and not a lot was done on my part.<li\>
+<li> Week 7: New member, I created a GIT for the team and we got got a kate and maria db accounts<li\>
+<li> Week 8:As GIT manager i was looking to get our script ot run all the time<li\>
+<li> Week 9:Working on Automated Testing with Henry <li\>
+</ul>

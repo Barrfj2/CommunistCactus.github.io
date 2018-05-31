@@ -16,7 +16,7 @@ Our list of options were:
 <li>Learning analytics with GitLab <br>
  <img src="https://prnt.sc/jowgh1"></li>
 <li>Semester management <br>
- <img src="C:\Users\Example\CommunistCactus.github.io\images\jowgua.png"></li>
+ <img src="images\jowgua.png"></li>
 <li>Sea lion database <br>
   <img src="https://prnt.sc/jowhaa"></li>
 <li>Meals on Wheels <br>

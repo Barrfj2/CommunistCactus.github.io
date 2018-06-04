@@ -11,9 +11,12 @@ Week timeline of updates
 Week:
 </p>
 <ul>
-<li> Week 1: Subbmitting CV and Coverletter<li\>
-<li> Week 2:Getting our porject assignedCreating our trello and making user stories<li\>
-<li> Week 3:Nick presented a skeleton of the code and we went over it to make sure it would work etc <li\>
+<li> Week 1: I Subbmitted my CV and Coverletter for two of the projects listed. I chose leave management as my first option because I thought it would be more interesting and semester 
+planning which i thought was similar to leave managment. Was assigned the first option I chose which was the leave management where I was 
+joined by Nick Tooley, Albert Tireck, Henry Cooper and Coen Edwards. A slack Channel was created with all the members were added. we also interviewed the client for user stories. <li\>
+<li> Week 2:The next session I created a trello board and populated it with user stories, backlog and a number of other items. They were all open to revision but had what the client had in mind.
+That week we assigned members to do a variety of task with myself assigned to wireframes.<li\>
+<li> Week 3:Nick presented a skeleton of the code and we went over it to make sure it would work etc. <li\>
 <li> Week 4: Looking online  for ideas<li\>
 <li> Week 5: Holiday Period and not a lot was done on my part.<li\>
 <li> Week 6: Holiday Period and not a lot was done on my part.<li\>

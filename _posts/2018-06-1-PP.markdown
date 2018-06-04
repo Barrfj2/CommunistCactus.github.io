@@ -7,6 +7,8 @@ categories: jekyll update
 <p>
 using:
 Trello
+Slack Communication
 GIT Wiki
+Sprint
 Flow Chart
 </p>

@@ -5,6 +5,7 @@ date:   2018-05-31 17:08:22 +1200
 categories: jekyll update
 ---
 <p>
+Report of my professional proficiency during Leave Management development.
 using:
 Trello
 Slack Communication

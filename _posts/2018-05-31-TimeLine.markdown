@@ -16,11 +16,24 @@ planning which i thought was similar to leave managment. Was assigned the first 
 joined by Nick Tooley, Albert Tireck, Henry Cooper and Coen Edwards. A slack Channel was created with all the members were added. we also interviewed the client for user stories. <li\>
 <li> Week 2:The next session I created a trello board and populated it with user stories, backlog and a number of other items. They were all open to revision but had what the client had in mind.
 That week we assigned members to do a variety of task with myself assigned to wireframes.<li\>
-<li> Week 3:Nick presented a skeleton of the code and we went over it to make sure it would work etc. <li\>
-<li> Week 4: Looking online  for ideas<li\>
-<li> Week 5: Holiday Period and not a lot was done on my part.<li\>
-<li> Week 6: Holiday Period and not a lot was done on my part.<li\>
-<li> Week 7: New member, I created a GIT for the team and we got got a kate and maria db accounts<li\>
-<li> Week 8:As GIT manager i was looking to get our script ot run all the time<li\>
-<li> Week 9:Working on Automated Testing with Henry <li\>
+<li> Week 3:Nick presented a skeleton of the code and we went over it to make sure it would work etc. 
+Following the agile principle 7 "Working software is the primary measure of progress." Not a Lot was done by other team members except Nick that week.<li\>
+<li> Week 4: So Nick and I scoured th internet looking at what other companies had created where we came across a few sites such as Capterra and Calamari. We did this to help us research Ideas for our site. 
+Nick signed up for a trail on Calamri so we could better see how it operated.<li\>
+<li> Week 5: Holiday Period and not a lot was done on my part as I was working.<li\>
+<li> Week 6: Holiday Period and not a lot was done on my part as I was working.<li\>
+<li> Week 7: New member Coen was addedto the group. The team needed assigned roles and they were assigned based on skill as 3 of us werent proficient in php myself included. 
+Albert and Nick were given the php coding roles, Henry was given testing, Coen was given GUI duties and I was given security and git management.
+ Git was obviously a required bit of software for the team so in the process of assigning roles out I created a git for the team.
+we got got a kate and maria db accounts. I also began research into learning PHP and a better understanding of GIT.<li\>
+<li> Week 8:We met together on monday and talked in detail about our flowchart where memebers were also assigned specific pages to members to code up where I was given the info page.
+Nick and I got together and created the git repo and proceeded to clone to the kate server that our group had been assigned. 
+I also created a little wiki for it. During this period I developed quite a bad illness which severly hindered my attendance in class and doing my work.<li\>
+<li> Week 9:Was still suffering for sickness and Albert had completed the info page for me. Nick and Albert were having trouble having the 
+script run at all times so I was assigned to look into it and see if I could get it gonig. I was also looking into more security related areas to protect our software. 
+Looking for vulnerablities in our PHP by going over our code. <li\>
+<li> Week 10:This week was of the exam so I went over installing jekyll in a quick time period to get me ready
+ for what the exam. Henry had been assigned the role of software testing and I had helped him choose Selenium 
+ but he was having trouble getting it working so I got assigned to assit him on the matter as there wasnt many
+ roles for me to partake in on the current time. I also documented bugs in the software on our trello when I was going through with my testing. <li\>
 </ul>
